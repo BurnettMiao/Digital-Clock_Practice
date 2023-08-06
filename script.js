@@ -47,6 +47,4 @@ setInterval(() => {
   dayText.textContent = day;
   monthText.textContent = month;
   timeText.textContent = hour + ':' + minute + ':' + second;
-
-  console.log(date);
 });
